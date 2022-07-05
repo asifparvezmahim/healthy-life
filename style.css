@@ -73,3 +73,35 @@ body {
     display: flex;
     margin: 100px;
 }
+
+.footerbox {
+    text-align: center;
+
+
+
+}
+
+.final {
+    display: flex;
+    margin: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 40%;
+    margin-right: 30%;
+
+
+
+}
+
+.p {
+    margin: 20px;
+    padding: 0 0 0 0;
+}
+
+.q {
+    margin: 20px;
+}
+
+.about {
+    padding-top: 450px;
+    padding-left: 20px;
+}
